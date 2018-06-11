@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.idea/.idea.Project/.idea
+*.iml
+/.vs/Project
+/packages
+/Project/bin/Debug
+/Project/obj/Debug
+/ProjectLibrary/bin/Debug
+/ProjectLibrary/obj/Debug
+/ProjectTests/obj/Debug
